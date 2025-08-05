@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dongzirui542.github.io" resolutions="1x" timestamp="1754374172581">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="neopolaris.css" crc="122749095" ref="neopolaris"/>
+    <file name="oru_specifications.css" crc="122749095" ref="oru_specifications"/>
+    <file name="terms_and_privacy.css" crc="261047142" ref="terms_and_privacy"/>
+    <file name="server_specifications.css" crc="4154914555" ref="server_specifications"/>
+    <file name="details.css" crc="122749095" ref="details"/>
+    <file name="pages.css" crc="122749095" ref="pages"/>
+    <file name="docs.css" crc="122749095" ref="docs"/>
+    <file name="index.css" crc="4009135129" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:terms_and_privacy:details:docs:oru_specifications:server_specifications:pages:neopolaris"/>
+    <file name="museutils.js" crc="340535759" ref="index:terms_and_privacy:details:docs:oru_specifications:server_specifications:pages:neopolaris"/>
+    <file name="whatinput.js" crc="86476730" ref="index:terms_and_privacy:details:docs:oru_specifications:server_specifications:pages:neopolaris"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:terms_and_privacy:details:docs:oru_specifications:server_specifications:pages:neopolaris"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:terms_and_privacy:details:docs:oru_specifications:server_specifications:pages:neopolaris"/>
+    <file name="require.js" crc="7928878" ref="index:terms_and_privacy:details:docs:oru_specifications:server_specifications:pages:neopolaris"/>
+  </folder>
+  <folder name="images">
+    <file name="neo修冰箱ed-主页-favicon.ico" crc="148163058" ref="index"/>
+    <file name="2025-07-01_113819.jpg" crc="4091376802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u509-4.png" crc="4249086540" ref="index"/>
+    <file name="u513-4.png" crc="449541668" ref="index"/>
+    <file name="u516-4.png" crc="409616148" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4266424333" seo="true" mt="1754374046580" redirect="true"/>
+  <file name="terms_and_privacy.html" crc="3904541655" seo="true" mt="1754125097431" redirect="true"/>
+  <file name="details.html" crc="401491513" seo="true" mt="1753455862173" redirect="false"/>
+  <file name="docs.html" crc="317982024" seo="true" mt="1753513362369" redirect="false"/>
+  <file name="oru_specifications.html" crc="527165275" seo="true" mt="1753513417552" redirect="false"/>
+  <file name="server_specifications.html" crc="227259047" seo="true" mt="1753698200992" redirect="true"/>
+  <file name="pages.html" crc="289574640" seo="true" mt="1754125496217" redirect="false"/>
+  <file name="neopolaris.html" crc="345865053" seo="true" mt="1754373997119" redirect="false"/>
+</manifest>
